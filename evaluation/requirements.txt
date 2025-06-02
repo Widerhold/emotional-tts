@@ -1,0 +1,7 @@
+statsmodels
+pymer4
+polars
+rpy2
+arch
+scikit_posthocs
+pingouin
